@@ -1,0 +1,9 @@
+#woocommerce-coupon-data ul.wc-tabs li.deposit_tab a:before, 
+#woocommerce-product-data ul.wc-tabs li.deposit_tab a:before, 
+.woocommerce ul.wc-tabs li.deposit_tab a:before {
+  content: '\00bd';
+}
+
+.form-field input[type="radio"] {
+  width: auto;
+}

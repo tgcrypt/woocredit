@@ -1,0 +1,19 @@
+.due-today {
+  color: red; 
+}
+#deposit_amount_hidden {
+  display: none;
+}
+#remaining_balance_hidden {
+  display: none;
+}
+#total_order_cost_hidden {
+  display: none;
+}
+.deposit_options {
+  list-style: none;
+  padding-left: 0;
+}
+.deposit_option label {
+  margin-left: 10px;
+}
